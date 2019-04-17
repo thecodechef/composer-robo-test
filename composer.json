@@ -1,0 +1,15 @@
+{
+    "name": "jeremy/composer-robo-test",
+    "require": {
+        "consolidation/robo": "^1.4"
+    },
+    "authors": [
+        {
+            "name": "Jeremy Bolding",
+            "email": "cyberchefjay@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "leafo/scssphp": "^0.7.7"
+    }
+}
